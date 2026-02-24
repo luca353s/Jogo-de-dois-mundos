@@ -1,7 +1,7 @@
 //variaveis de movimento
 vel = 0
 max_vel = 1
-max_velv = 4
+max_velv = 3
 velv=0
 grav = .2
 animacao_para = true

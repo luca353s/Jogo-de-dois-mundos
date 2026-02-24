@@ -1,4 +1,4 @@
 if(!global.fechadob)
 {
-    y -=100
+    y -=1000
 }

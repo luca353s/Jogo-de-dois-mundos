@@ -1,4 +1,4 @@
 if(!global.fechado)
 {
-    y -=100
+    y -=1000
 }
