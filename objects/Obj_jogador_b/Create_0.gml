@@ -6,6 +6,7 @@ velv=0
 grav = .2
 animacao_para = true
 
+
 trocando_mundo = false
 
 

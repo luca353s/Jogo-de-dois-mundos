@@ -1,3 +1,4 @@
+//mecanica da escada
 grav = 0
 if(keyboard_check(vk_space))
     {
