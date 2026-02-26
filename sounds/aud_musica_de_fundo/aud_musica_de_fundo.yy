@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"aud_musica_de_fundo",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":284.7608,
+  "name":"aud_musica_de_fundo",
+  "parent":{
+    "name":"sala1",
+    "path":"folders/Cenas/sala1.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"aud_musica_de_fundo.mp3",
+  "type":0,
+  "volume":1.0,
+}

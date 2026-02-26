@@ -7,6 +7,7 @@ grav = .2
 animacao_para = true
 
 trocando_mundo = false
+audio_play_sound(aud_musica_de_fundo,0,0)
 
 //fazendo ele aparecer em um local se ja tiver salvo
 if(global.local)
@@ -116,5 +117,31 @@ debugs = function()
 }
 debugs()
 #endregion
- */
 
+*/
+//criando a funçao final
+//se tiver na sala fina
+pode = true
+final = function()
+{
+    if(room = sala7_e)
+    {
+        //e o x chegou no lugar
+        if(x>222)
+        {
+           //travando o movimento
+           max_vel = 0
+           max_velv = 0
+            
+           //travando a animaçao
+           sprite_index = Spt_personagem_parado
+            
+            //criando o timer 1x
+            if(pode)
+            {
+               alarm[1] = 120
+                pode = false 
+            }
+        }
+    }
+}

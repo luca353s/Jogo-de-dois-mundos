@@ -3,7 +3,7 @@
   "%Name":"Sprite8",
   "bboxMode":0,
   "bbox_bottom":495,
-  "bbox_left":320,
+  "bbox_left":256,
   "bbox_right":495,
   "bbox_top":400,
   "collisionKind":1,
