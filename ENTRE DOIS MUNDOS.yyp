@@ -111,6 +111,7 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
+    {"roomId":{"name":"sala7","path":"rooms/sala7/sala7.yy",},},
     {"roomId":{"name":"sala1","path":"rooms/sala1/sala1.yy",},},
     {"roomId":{"name":"sala7_d","path":"rooms/sala7_d/sala7_d.yy",},},
     {"roomId":{"name":"sala6","path":"rooms/sala6/sala6.yy",},},
@@ -126,7 +127,6 @@
     {"roomId":{"name":"sala_secreta","path":"rooms/sala_secreta/sala_secreta.yy",},},
     {"roomId":{"name":"sala4_b","path":"rooms/sala4_b/sala4_b.yy",},},
     {"roomId":{"name":"sala5_b","path":"rooms/sala5_b/sala5_b.yy",},},
-    {"roomId":{"name":"sala7","path":"rooms/sala7/sala7.yy",},},
     {"roomId":{"name":"sala7_b","path":"rooms/sala7_b/sala7_b.yy",},},
     {"roomId":{"name":"sala7_c","path":"rooms/sala7_c/sala7_c.yy",},},
     {"roomId":{"name":"sala7_e","path":"rooms/sala7_e/sala7_e.yy",},},

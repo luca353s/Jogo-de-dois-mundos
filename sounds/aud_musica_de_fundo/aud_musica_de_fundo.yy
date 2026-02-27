@@ -12,8 +12,8 @@
   "duration":284.7608,
   "name":"aud_musica_de_fundo",
   "parent":{
-    "name":"sala1",
-    "path":"folders/Cenas/sala1.yy",
+    "name":"ENTRE DOIS MUNDOS",
+    "path":"ENTRE DOIS MUNDOS.yyp",
   },
   "preload":false,
   "resourceType":"GMSound",

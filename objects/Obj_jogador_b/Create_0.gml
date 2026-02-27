@@ -8,7 +8,9 @@ animacao_para = true
 
 
 trocando_mundo = false
-
+//tocando a musica em camera lenta
+//musica = global.mu_fundo
+ audio_sound_pitch(aud_musica_de_fundo,.2)
 
 //fazendo ele aparecer no mesmo lugar do outro
 x = global.locx

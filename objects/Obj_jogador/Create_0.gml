@@ -7,7 +7,13 @@ grav = .2
 animacao_para = true
 
 trocando_mundo = false
-audio_play_sound(aud_musica_de_fundo,0,0)
+//tocando a musica uma fez
+if(global.musica)
+{//tocando a musica com variavel
+    musica = global.mu_fundo
+    global.musica = false
+}
+ audio_sound_pitch(aud_musica_de_fundo,1)
 
 //fazendo ele aparecer em um local se ja tiver salvo
 if(global.local)
@@ -122,7 +128,7 @@ debugs()
 //criando a funçao final
 //se tiver na sala fina
 pode = true
-final = function()
+final_vdd = function()
 {
     if(room = sala7_e)
     {
