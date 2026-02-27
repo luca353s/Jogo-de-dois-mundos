@@ -10,7 +10,7 @@ animacao_para = true
 trocando_mundo = false
 //tocando a musica em camera lenta
 //musica = global.mu_fundo
- audio_sound_pitch(aud_musica_de_fundo,.2)
+ audio_sound_pitch(aud_musica_de_fundo,.1)
 
 //fazendo ele aparecer no mesmo lugar do outro
 x = global.locx
@@ -19,8 +19,8 @@ y = global.locy
 //variaveis de teclas
 pega_teclas = function()
 {
-    dir = keyboard_check(vk_right)
-    esq = keyboard_check(vk_left)
+    dir = keyboard_check(vk_right) or keyboard_check(ord("D"))
+    esq = keyboard_check(vk_left)  or keyboard_check(ord("A"))
     pulo = keyboard_check(vk_space)
 }
 //movimentaçao
@@ -107,6 +107,7 @@ movimentacao = function()
 }
 #endregion
 #region debugs
+/*
 debugs = function()
 {//definindo a velocidade
     dbg_slider(ref_create(id,"max_vel"),0,10,"max_vel",.1)
@@ -117,4 +118,4 @@ debugs = function()
 }
 debugs()
 #endregion
-
+*/

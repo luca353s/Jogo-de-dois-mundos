@@ -27,8 +27,8 @@ if(global.local)
 //variaveis de teclas
 pega_teclas = function()
 {
-    dir = keyboard_check(vk_right)
-    esq = keyboard_check(vk_left)
+    dir = keyboard_check(vk_right) or keyboard_check(ord("D"))
+    esq = keyboard_check(vk_left)  or keyboard_check(ord("A"))
     pulo = keyboard_check(vk_space)
 }
 //movimentaçao

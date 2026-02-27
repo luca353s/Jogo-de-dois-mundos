@@ -115,10 +115,10 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
+    {"roomId":{"name":"sala1","path":"rooms/sala1/sala1.yy",},},
     {"roomId":{"name":"sala_final_a","path":"rooms/sala_final_a/sala_final_a.yy",},},
     {"roomId":{"name":"sala7_e","path":"rooms/sala7_e/sala7_e.yy",},},
     {"roomId":{"name":"sala7","path":"rooms/sala7/sala7.yy",},},
-    {"roomId":{"name":"sala1","path":"rooms/sala1/sala1.yy",},},
     {"roomId":{"name":"sala7_d","path":"rooms/sala7_d/sala7_d.yy",},},
     {"roomId":{"name":"sala6","path":"rooms/sala6/sala6.yy",},},
     {"roomId":{"name":"sala5","path":"rooms/sala5/sala5.yy",},},
