@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"Aud_final",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":223.39919,
+  "name":"Aud_final",
+  "parent":{
+    "name":"Cenas",
+    "path":"folders/Cenas.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"Aud_final.mp3",
+  "type":0,
+  "volume":1.0,
+}

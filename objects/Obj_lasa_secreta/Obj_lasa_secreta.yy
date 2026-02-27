@@ -30,7 +30,8 @@
   "properties":[
     {"$GMObjectProperty":"v1","%Name":"sala","filters":[
         "GMRoom",
-      ],"listItems":[],"multiselect":false,"name":"sala","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":{"name":"Room1_1","path":"rooms/Room1_1/Room1_1.yy",},"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"Room1_1","varType":5,},
+      ],"listItems":[],"multiselect":false,"name":"sala","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":{"name":"sala4","path":"rooms/sala4/sala4.yy",},"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"sala4","varType":5,},
+    {"$GMObjectProperty":"v1","%Name":"tempo","filters":[],"listItems":[],"multiselect":false,"name":"tempo","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"20","varType":1,},
   ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",

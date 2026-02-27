@@ -1,1 +1,1 @@
-alarm[0] = 20
+alarm[0] = tempo

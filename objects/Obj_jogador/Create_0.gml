@@ -11,9 +11,11 @@ trocando_mundo = false
 if(global.musica)
 {//tocando a musica com variavel
     musica = global.mu_fundo
+    audio_sound_gain(musica,.6,0)
     global.musica = false
 }
  audio_sound_pitch(aud_musica_de_fundo,1)
+ 
 
 //fazendo ele aparecer em um local se ja tiver salvo
 if(global.local)
